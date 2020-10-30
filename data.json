@@ -6,11 +6,5 @@
   "mem": 128,
   "disk": 0,
   "gpus": 0,
-  "instances": 1,
-  "env": {},
-  "healthChecks": [],
-  "container": null,
-  "acceptedResourceRoles": [
-    "mesosagent1"
-  ]
+  "instances": 1
 }
