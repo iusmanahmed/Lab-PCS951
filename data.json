@@ -1,0 +1,10 @@
+{
+  "id": "student8-task2.2",
+  "role": "marathon",
+  "cmd": "python -m SimpleHTTPServer",
+  "cpus": 1,
+  "mem": 128,
+  "disk": 0,
+  "gpus": 0,
+  "instances": 1
+}
